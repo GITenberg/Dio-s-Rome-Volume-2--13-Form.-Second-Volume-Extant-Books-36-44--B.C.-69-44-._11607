@@ -1,5 +1,5 @@
 _repo: Dio-s-Rome-Volume-2--13-Form.-Second-Volume-Extant-Books-36-44--B.C.-69-44-._11607
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Foster, Herbert Baldwin
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1906
     gutenberg_agent_id: '4575'
     url: http://www.gutenberg.org/2009/agents/4575
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cassius Dio Cocceianus
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3339
     wikipedia: http://en.wikipedia.org/wiki/Cassius_Dio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11607#Dio-s-Rome-Volume-2--13-Form.-Second-Volume-Extant-Books-36-44--B.C.-69-44-.
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
